@@ -1,0 +1,22 @@
+.page {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.subtitle {
+    margin-bottom: 2rem;
+}
+
+.jokeBox {
+  background-color: var(--card-color);
+  padding: 2rem 3rem;
+  border-radius: 12px;
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px var(--shadow-color);
+}

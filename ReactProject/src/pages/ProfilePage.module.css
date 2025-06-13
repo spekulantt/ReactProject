@@ -1,0 +1,22 @@
+.profileContainer {
+    padding-top: 2rem;
+}
+
+.inputGroup {
+    margin-top: 2rem;
+    max-width: 400px;
+}
+
+.inputGroup label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.stats {
+    margin-top: 3rem;
+    background-color: var(--surface-color);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+}

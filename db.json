@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Nákupný zoznam",
+      "content": "<p>Mlieko, chlieb, vajcia.</p>",
+      "date": "2025-06-16",
+      "id": "1"
+    },
+    {
+      "title": "Úloha na projekt",
+      "content": "<h3>Dokončiť zadanie z Reactu.</h3><p>Odovzdať v Pondelok.</p>",
+      "date": "2025-06-20",
+      "id": "2"
+    },
+    {
+      "title": "Kontrola",
+      "content": "<p>Kontrola u pneumologa zaciatkom jula</p>",
+      "date": "2025-06-15",
+      "id": "3"
+    },
+    {
+      "id": "2473",
+      "title": "Starnem",
+      "content": "<h2>Party</h2><h3>Party</h3><h4>Party</h4><p>Party <strong>Party</strong> <i>Party <strong>Party</strong></i></p>",
+      "date": "2026-01-08"
+    }
+  ]
+}
