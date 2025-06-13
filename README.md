@@ -40,7 +40,7 @@ Ak si chcete projekt vyskúšať, postupujte podľa týchto krokov:
 1.  **Naklonujte si repozitár:**
     ```bash
     git clone [https://github.com/spekulantt/ReactProject.git](https://github.com/spekulantt/ReactProject.git)
-    cd react-poznamky-app
+    cd ReactProject
     ```
 
 2.  **Nainštalujte závislosti:**
