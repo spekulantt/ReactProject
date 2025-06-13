@@ -39,7 +39,7 @@ Ak si chcete projekt vyskúšať, postupujte podľa týchto krokov:
 
 1.  **Naklonujte si repozitár:**
     ```bash
-    git clone [https://github.com/tvoje-meno/react-poznamky-app.git](https://github.com/tvoje-meno/react-poznamky-app.git)
+    git clone [https://github.com/spekulantt/ReactProject.git](https://github.com/spekulantt/ReactProject.git)
     cd react-poznamky-app
     ```
 
